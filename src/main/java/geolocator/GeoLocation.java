@@ -1,3 +1,4 @@
+
 package geolocator;
 
 @lombok.Data
